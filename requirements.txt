@@ -1,18 +1,16 @@
-streamlit==1.38.0
-pandas==2.2.2
-numpy==1.26.4
-plotly==5.24.0
-folium==0.17.0
-streamlit-folium==0.22.0
-snowflake-connector-python==3.12.2
-scikit-learn==1.5.2
-reportlab==4.2.2
-requests==2.32.3
-Pillow==10.4.0
-matplotlib==3.9.2
-seaborn==0.13.2
-branca==0.8.0
-google-generative-ai
-python-dotenv==1.0.1
-pyarrow==17.0.0
-toml==0.10.2
+streamlit==1.38.0; python_version >= '3.11' and python_version < '3.12'
+pandas==2.2.2; python_version >= '3.11' and python_version < '3.12'
+numpy==1.26.4; python_version >= '3.11' and python_version < '3.12'
+plotly==5.24.0; python_version >= '3.11' and python_version < '3.12'
+folium==0.17.0; python_version >= '3.11' and python_version < '3.12'
+streamlit-folium==0.22.0; python_version >= '3.11' and python_version < '3.12'
+snowflake-connector-python==3.12.2; python_version >= '3.11' and python_version < '3.12'
+scikit-learn==1.5.2; python_version >= '3.11' and python_version < '3.12'
+reportlab==4.2.2; python_version >= '3.11' and python_version < '3.12'
+requests==2.32.3; python_version >= '3.11' and python_version < '3.12'
+Pillow==10.4.0; python_version >= '3.11' and python_version < '3.12'
+matplotlib==3.9.2; python_version >= '3.11' and python_version < '3.12'
+seaborn==0.13.2; python_version >= '3.11' and python_version < '3.12'
+branca==0.8.0; python_version >= '3.11' and python_version < '3.12'
+google-generative-ai==0.7.2; python_version >= '3.11' and python_version < '3.12'
+pyarrow==17.0.0; python_version >= '3.11' and python_version < '3.12'
