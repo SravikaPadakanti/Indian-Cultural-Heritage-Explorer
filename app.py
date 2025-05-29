@@ -249,11 +249,7 @@ def bharat_explorer():
     Use emojis appropriately to make responses more engaging and maintain a warm, conversational tone.
     """
     
-    model = genai.GenerativeModel(
-    model_name="gemini-1.5-flash",
-    system_instruction=system_instruction
-)
-    
+
     # Initialize chat session and history
     if 'chat_history' not in st.session_state:
         st.session_state['chat_history'] = []
