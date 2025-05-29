@@ -225,7 +225,7 @@ def bharat_explorer():
         return
     
     # Configure Gemini API
-    client = genai.Client(api_key=api_key)
+   genai.configure(api_key=api_key)
     
     system_instruction = """
     You are Bharat Explorer, an enthusiastic and knowledgeable AI assistant specializing in Indian culture, art, and tourism. 
@@ -248,7 +248,10 @@ def bharat_explorer():
     
     Use emojis appropriately to make responses more engaging and maintain a warm, conversational tone.
     """
-    
+    model = genai.GenerativeModel(
+        model_name="gemini-1.5-flash",
+        system_instruction=system_instruction
+    )
 
     # Initialize chat session and history
     if 'chat_history' not in st.session_state:
