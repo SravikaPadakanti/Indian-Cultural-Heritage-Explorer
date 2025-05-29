@@ -16,8 +16,6 @@ from folium.plugins import MarkerCluster
 import streamlit.components.v1 as components
 import os
 import branca.colormap as cm
-import openai
-from openai import OpenAI
 import json
 from datetime import datetime
 import time
