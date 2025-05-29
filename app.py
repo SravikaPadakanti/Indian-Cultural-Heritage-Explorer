@@ -20,7 +20,7 @@ import json
 from datetime import datetime
 import time
 import random
-import google.generativeai as genai
+import google.genai as genai
 from dotenv import load_dotenv
 
 # Set page configuration
@@ -250,9 +250,9 @@ def bharat_explorer():
     """
     
     model = genai.GenerativeModel(
-        model_name="gemini-1.5-flash",
-        system_instruction=system_instruction
-    )
+    model_name="gemini-1.5-flash",
+    system_instruction=system_instruction
+)
     
     # Initialize chat session and history
     if 'chat_history' not in st.session_state:
