@@ -20,7 +20,7 @@ import json
 from datetime import datetime
 import time
 import random
-import google.genai as genai
+import google.generativeai as genai
 from dotenv import load_dotenv
 
 # Set page configuration
