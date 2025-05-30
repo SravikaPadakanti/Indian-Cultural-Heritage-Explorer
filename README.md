@@ -96,9 +96,9 @@ An interactive web application that explores and visualizes India's rich cultura
 ┌─────────────────────┐    ┌──────────────────┐    ┌─────────────────────┐
 │   Visualization     │    │   File Storage   │    │   Security Layer    │
 │                     │    │                  │    │                     │
-│ • Plotly Charts     │    │ • PDF Reports    │    │ • SSL/TLS          │
-│ • Folium Maps       │    │ • Image Assets   │    │ • API Keys         │
-│ • Matplotlib Plots  │    │ • Data Cache     │    │ • Encryption       │
+│ • Plotly Charts     │    │ • PDF Reports    │    │ • SSL/TLS           │
+│ • Folium Maps       │    │ • Image Assets   │    │ • API Keys          │
+│ • Matplotlib Plots  │    │ • Data Cache     │    │ • Encryption        │
 └─────────────────────┘    └──────────────────┘    └─────────────────────┘
 ```
 
