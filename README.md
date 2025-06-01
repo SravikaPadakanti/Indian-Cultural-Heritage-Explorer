@@ -82,25 +82,7 @@ An interactive web application that explores and visualizes India's rich cultura
 
 ## 🏗️ Architecture
 
-```
-┌─────────────────────┐    ┌──────────────────┐    ┌─────────────────────┐
-│   Streamlit UI      │    │  Data Processing │    │   External APIs     │
-│                     │    │                  │    │                     │
-│ • Interactive Maps  │◄──►│ • Pandas/NumPy   │◄──►│ • Google AI         │
-│ • Charts & Graphs   │    │ • Scikit-learn   │    │ • Snowflake DB      │
-│ • User Interface    │    │ • Data Analysis  │    │ • Heritage APIs     │
-└─────────────────────┘    └──────────────────┘    └─────────────────────┘
-           ▲                          ▲                          ▲
-           │                          │                          │
-           ▼                          ▼                          ▼
-┌─────────────────────┐    ┌──────────────────┐    ┌─────────────────────┐
-│   Visualization     │    │   File Storage   │    │   Security Layer    │
-│                     │    │                  │    │                     │
-│ • Plotly Charts     │    │ • PDF Reports    │    │ • SSL/TLS           │
-│ • Folium Maps       │    │ • Image Assets   │    │ • API Keys          │
-│ • Matplotlib Plots  │    │ • Data Cache     │    │ • Encryption        │
-└─────────────────────┘    └──────────────────┘    └─────────────────────┘
-```
+
 
 ## 🚀 Installation
 
@@ -300,9 +282,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Support
 
 - 🌐 **Live App**: [indian-cultural-heritage-explorer.streamlit.app](https://indian-cultural-heritage-explorer.streamlit.app/)
-- 📧 **Email**: your.email@domain.com
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 🐙 **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- 📧 **Email**: padakantisravikaa@gmail.com
+- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/sravika-padakanti/)
+- 🐙 **GitHub**: [Your GitHub Profile](https://github.com/SravikaPadakanti/)
 
 ---
 
