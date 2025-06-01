@@ -208,19 +208,22 @@ An interactive web application that explores and visualizes India's rich cultura
 ## 📸 Screenshots
 
 ### Main Dashboard
-![Dashboard](https://via.placeholder.com/800x400/4285F4/FFFFFF?text=Main+Dashboard)
+![Home Page](https://github.com/SravikaPadakanti/Indian-Cultural-Heritage-Explorer/blob/main/Images/Home%20Page.png)
+![Swiper](https://github.com/SravikaPadakanti/Indian-Cultural-Heritage-Explorer/blob/main/Images/Swiper.png)
 *Interactive dashboard showing heritage site statistics and key metrics*
 
 ### Heritage Map
-![Heritage Map](https://via.placeholder.com/800x400/34A853/FFFFFF?text=Interactive+Heritage+Map)
+![Heritage Map](https://github.com/SravikaPadakanti/Indian-Cultural-Heritage-Explorer/blob/main/Images/Heritage%20site%20Map.png)
 *Geographic visualization of heritage sites across India with filtering options*
 
 ### Analytics Section
-![Analytics](https://via.placeholder.com/800x400/EA4335/FFFFFF?text=Data+Analytics+Dashboard)
+![Tourism Analytics](https://github.com/SravikaPadakanti/Indian-Cultural-Heritage-Explorer/blob/main/Images/Screenshot%202025-06-02%20002247.png)
+![Seasonal Patterns](https://github.com/SravikaPadakanti/Indian-Cultural-Heritage-Explorer/blob/main/Images/Tourism_Analytics.png)
 *Comprehensive analytics dashboard with charts, trends, and insights*
 
 ### AI Chatbot
-![AI Chatbot](https://via.placeholder.com/800x400/FBBC04/FFFFFF?text=AI-Powered+Heritage+Chatbot)
+![AI Chatbot](https://github.com/SravikaPadakanti/Indian-Cultural-Heritage-Explorer/blob/main/Images/AI%20Chatbot.png)
+![AI Chatbot (chat)](https://github.com/SravikaPadakanti/Indian-Cultural-Heritage-Explorer/blob/main/Images/Chat.png)
 *AI-powered chatbot providing cultural heritage information and recommendations*
 
 ## 🤝 Contributing
