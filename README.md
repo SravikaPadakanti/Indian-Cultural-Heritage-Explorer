@@ -82,7 +82,7 @@ An interactive web application that explores and visualizes India's rich cultura
 
 ## 🏗️ Architecture
 
--![System Architecture](https://raw.githubusercontent.com/SravikaPadakanti/Indian-Cultural-Heritage-Explorer/main/Images/System_architecture.png)
+-![System Architecture](https://raw.githubusercontent.com/SravikaPadakanti/Indian-Cultural-Heritage-Explorer/main/Images/System_Architecture.png/)
 
 ## 🚀 Installation
 
