@@ -3412,7 +3412,7 @@ def integrate_with_existing_app():
                     },
                     "Charminar": {
                         "description": "Built in 1591 in Hyderabad, Telangana, the Charminar is an iconic monument and mosque, known for its four minarets and vibrant surrounding markets.",
-                        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Charminar%2C_Hyderabad.JPG/960px-Charminar%2C_Hyderabad.JPG?20120904111326",
+                        "image_url": "https://media1.thrillophilia.com/filestore/3g77vc5tt9qxuuorsmeudjjscqtu_Charminar.jpg?w=400&dpr=2",
                         "year": "Not a UNESCO site",
                         "fact": "The Charminar was built to commemorate the end of a deadly plague in Hyderabad."
                     },
