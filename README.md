@@ -29,6 +29,7 @@ An interactive web application that explores and visualizes India's rich cultura
 - **Geographic Visualization**: Interactive maps showing heritage sites across India
 - **Site Details**: Comprehensive information about monuments, temples, and cultural sites
 - **Location-based Search**: Find heritage sites by state, region, or proximity
+- **Search & Filter**: Enabled quick filtering of heritage sites based on categories and historical significance.
 
 ### 📊 Data Analytics & Insights
 - **Statistical Analysis**: Comprehensive statistics on India's cultural heritage
