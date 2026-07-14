@@ -206,26 +206,34 @@ An interactive web application that explores and visualizes India's rich cultura
 - 🔍 **Research Facilitation**: Supporting academic and cultural studies
 - 🌟 **Awareness Building**: Promoting cultural heritage appreciation
 
-## 📸 Screenshots
+## 📸 Project Showcase & Walkthrough
 
-### Main Dashboard
-![Home Page](https://github.com/SravikaPadakanti/Indian-Cultural-Heritage-Explorer/blob/main/Images/Home%20Page.png)
-![Swiper](https://github.com/SravikaPadakanti/Indian-Cultural-Heritage-Explorer/blob/main/Images/Swiper.png)
-*Interactive dashboard showing heritage site statistics and key metrics*
+Explore the visual features and interactive elements of the **Indian Cultural Heritage Explorer**.
 
-### Heritage Map
-![Heritage Map](https://github.com/SravikaPadakanti/Indian-Cultural-Heritage-Explorer/blob/main/Images/Heritage%20site%20Map.png)
-*Geographic visualization of heritage sites across India with filtering options*
+### 1. Central Core & Navigation
+The main dashboard welcomes users with a clean interface, key heritage metrics, and intuitive sidebar controls to navigate different cultural modules.
 
-### Analytics Section
-![Tourism Analytics](https://github.com/SravikaPadakanti/Indian-Cultural-Heritage-Explorer/blob/main/Images/Screenshot%202025-06-02%20002247.png)
-![Seasonal Patterns](https://github.com/SravikaPadakanti/Indian-Cultural-Heritage-Explorer/blob/main/Images/Tourism_Analytics.png)
-*Comprehensive analytics dashboard with charts, trends, and insights*
+| 🏛️ Main Dashboard | 🧭 Interactive Swiper |
+| :---: | :---: |
+| ![Home Page](./Images/Home_Page.png) | ![Swiper](./Images/Swiper.png) |
 
-### AI Chatbot
-![AI Chatbot](https://github.com/SravikaPadakanti/Indian-Cultural-Heritage-Explorer/blob/main/Images/AI%20Chatbot.png)
-![AI Chatbot (chat)](https://github.com/SravikaPadakanti/Indian-Cultural-Heritage-Explorer/blob/main/Images/Chat.png)
-*AI-powered chatbot providing cultural heritage information and recommendations*
+---
+
+### 2. Geographic Mapping & Deep Analytics
+Visualize heritage sites across the map of India with real-time filtering options alongside extensive tourism pattern analytics.
+
+| 🗺️ Heritage Map Tracker | 📊 Tourism & Seasonal Trends |
+| :---: | :---: |
+| ![Heritage Map](./Images/Heritage_Map.png) | ![Tourism Analytics](./Images/Tourism_Analytics.png) |
+
+---
+
+### 3. AI-Powered Cultural Companion
+Interact with the smart **Bharat Bot** chatbot to ask questions, uncover historical context, and receive personalized travel recommendations.
+
+| 🤖 AI Chatbot Interface | 💬 Real-Time AI Conversation |
+| :---: | :---: |
+| ![AI Chatbot](./Images/AI_Chatbot.png) | ![AI Chatbot (chat)](./Images/AI_Chatbot_(chat).png) |
 
 ## 🤝 Contributing
 
